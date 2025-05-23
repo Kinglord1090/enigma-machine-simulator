@@ -26,7 +26,7 @@ This project simulates the working of a World War II-era **Enigma Machine**, foc
    ```
 2. Run the simulation:
     ```bash
-    python enigma_sim.py
+    python enigma-sim.py
     ```
 3. The program will:
    - Initialize rotors with custom or default wiring.
